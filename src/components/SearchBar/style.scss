@@ -1,0 +1,16 @@
+.search-bar {
+  margin-top: 40px;
+  .buttons,
+  .search-field {
+    width: 100%;
+  }
+
+  .buttons {
+    background-color: #2596be;
+    color: white;
+
+    &:hover {
+      background-color: #55c2d9;
+    }
+  }
+}

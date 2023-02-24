@@ -1,0 +1,29 @@
+.list-movies {
+  margin-top: 20px;
+}
+
+.movie-card {
+  margin-top: 40px;
+
+  .title,
+  .description {
+    margin-bottom: 20px !important;
+  }
+
+  .paragraph {
+    display: block;
+    margin-bottom: 10px;
+
+    span {
+      font-weight: bold;
+    }
+  }
+
+  .button-favourite {
+    margin-top: 20px;
+  }
+
+  .poster {
+    width: 100%;
+  }
+}
